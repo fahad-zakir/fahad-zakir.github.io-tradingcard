@@ -1,0 +1,28 @@
+body {
+	margin: auto;
+	width: 300px;
+	margin-top: 150px;
+	border: thin solid lightgrey;
+	padding: 10px;
+	box-shadow: 5px 5px 5px #dddddd;
+	border-top-width: 1px;
+	padding-top: 5px;
+}
+
+.image {
+	padding-bottom: 10px;
+}
+
+.list li {
+	list-style-type: none;
+	margin-left: -2.5em;
+   	padding: 2px;
+   	width: 100%;
+}
+
+.information {
+	border: thin solid lightgrey;
+	padding: 10px;
+}
+
+
